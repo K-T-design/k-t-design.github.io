@@ -630,8 +630,8 @@ footer p{
   .qualification { padding: 20px; }
   .qualification-text { width: 100%; min-height: 0; margin: 0; padding: 40px 50px; box-sizing: border-box; }
   .qualification-text h1, .qualification-text span { margin-left: 0; }
-  .qua-image { width: 100%; padding-left: 15%; }
-  .qua-image img { width: 65%; margin-top: 45px; }
+  .qua-image { width: 100%; padding-left: 5%; }
+  .qua-image img { width: 95%; margin-top: 45px; }
 
   .skills-text { padding: 40px 0 20px; }
   .skills-boxes { grid-template-columns: 1fr; gap: 20px; margin: 0 20px; width: auto; }
